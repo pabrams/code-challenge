@@ -1,0 +1,13 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start1": "node ./codeChallenge1/sumOfSentence",
+    "start2": "node ./codeChallenge1/oddFibonacci",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
